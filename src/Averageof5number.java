@@ -7,7 +7,7 @@ public class Averageof5number {
         {
             System.out.println("Input the 5 numbers :==");
         }
-    for (a=0;a<5;a++)
+    for (a=0;a<5;a++) // Average of 5 number with Sum,Multiplication,Division,Subtraction.
     {
         Scanner in = new Scanner(System.in);
         n= in.nextInt();
